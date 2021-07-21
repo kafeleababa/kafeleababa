@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @kafeleababa
+- 👋 Hi, I’m Kafele (Ka-Fay-Lee) a FUllstack Developer based in Wellington, New Zealand.
 
-
-
-
-<!-- I'm interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-kafeleababa/kafeleababa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building websites that have a clean and clear theme and easy to use.
