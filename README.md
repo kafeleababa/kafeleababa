@@ -1,7 +1,6 @@
 👋 Hi, I’m Kafele (Ka-Fay-Lee) a Fullstack Developer based in Wellington, New Zealand.
 
 - 🔭 Working on multiple frontend and backend projects using React and Nodejs
-- 🌱 Learning design patterns in depth
 
 <br>
 <br>
@@ -23,7 +22,7 @@
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/redux%20-%2343853D.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 
 <br>
 <br>
