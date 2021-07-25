@@ -1,6 +1,7 @@
 👋 Hi, I’m Kafele (Ka-Fay-Lee) a Fullstack Developer based in Wellington, New Zealand.
 
-- 🔭 Working on multiple frontend and backend projects using React and Nodejs
+🕶️ I love creating websites that are clean and easy to use. 
+💻 Working on multiple projects using React and Node.js
 
 <br>
 <br>
