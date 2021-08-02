@@ -24,7 +24,7 @@
 
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS-%232062af?style=for-the-badge&logo=css3&logoColor=white" />
 
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23f7e018?style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23f7e018?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 
