@@ -1,4 +1,4 @@
-👋 Hi, I’m Kafele (Ka-Fay-Lee) a Fullstack Developer based in Wellington, New Zealand.
+👋 Hi, I’m Kafele (Ka-Fay-Lee) a Fullstack Developer working as a freelancer in London, England.
 
 🕶️ I love creating websites that are clean and easy to use. 
 <br>
